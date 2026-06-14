@@ -1,6 +1,8 @@
 **Privacy Policy**
 
-This privacy policy applies to the Auxílio Gás app (hereby referred to as "Application") for mobile devices that was created by Jefferson Cruz (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the Gás Botijão — Simulador app (hereby referred to as "Application") for mobile devices that was created by Jefferson Cruz (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+
+The information and simulations provided by this application are based on official government sources. For more details, please visit: www.gov.br/mds/pt-br and www.gov.br/pt-br/servicos/solicitar-o-auxilio-gas-dos-brasileiros.
 
 **Information Collection and Use**
 
